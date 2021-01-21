@@ -1,7 +1,7 @@
-#Queue_Qualifiacation
+# Queue_Qualifiacation
 
-This is the implementation of queue :-
+*This is the implementation of queue* :-
 
-1>>Array-Based Implementation
+1. Array-Based Implementation
 
-2>>Linked-Based Implementation
+2. Linked-Based Implementation
